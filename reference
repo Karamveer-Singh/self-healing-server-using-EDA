@@ -1,0 +1,15 @@
+https://betterstack.com/community/guides/monitoring/prometheus-alertmanager/#customizing-notification-templates
+
+https://developers.redhat.com/articles/2023/10/04/5-steps-build-self-healing-server-alertmanager#the_concepts_of_event_driven_and_self_healing
+
+https://developers.redhat.com/articles/2024/04/12/event-driven-ansible-rulebook-automation#
+
+https://github.com/redhat-developer-demos/Ansible-use-cases/tree/main/self-healing-server-using-EDA
+
+https://developers.redhat.com/topics/event-driven#whyeda
+
+https://developers.redhat.com/topics/event-driven/what-is-an-event#
+
+https://www.redhat.com/en/blog/getting-started-with-event-driven-ansible
+
+https://ansible.readthedocs.io/projects/rulebook/en/latest/
